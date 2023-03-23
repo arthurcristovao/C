@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+void main(){
+	char arquivo[30];
+	char linha[100];
+	FILE* arq1;
+	int line = 1, total=0;
+
+	printf("Digite o nome do arquivo: ");
+	gets(arquivo);
+
+	arq1 = fopen(arquivo, "r");
+	while(fgets(linha, sizeof(linha), arq1) != NULL){
+		if(line%2 == 0){
+			total += atoi(linha);
+		}
+		line++;
+	}
+	printf("O total da compra foi: %d\n", total);
+
+}

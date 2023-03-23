@@ -1,0 +1,37 @@
+#include <stdio.h>
+
+void contar(char *buffer){
+	int contar = 0, ind = 0;
+	
+	while(buffer[ind] != '\0'){
+		if(buffer[ind] == '/'){
+			contar++;
+		}
+		ind++;
+	}
+	printf("Foram digitadas %d palavras.\n", contar+1);
+	contar = 0;
+	ind = 0;
+	
+	while(buffer[ind] != '\0'){
+		if(buffer[ind] == '/'){
+			printf(" %d\n", contar);
+			contar = 0;
+			ind++;
+			continue;
+		}
+		printf("%c", buffer[ind]);
+		ind++;
+		contar++;
+	}
+	printf(" %d\n", contar);
+}
+
+int main (int argc, char **argv){
+	if(argc != 2){
+		printf("Numero de argumentos incorreto!\n");
+		return 0;
+	}
+	contar(argv[1]);
+	return 1;
+}

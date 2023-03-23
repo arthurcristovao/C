@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+void main(){
+	char letra[10] = "Bruno";
+	char *pt;
+	pt = letra;
+	
+	while(*pt!='\0'){
+		printf("%c", *pt);
+		pt++;
+	}
+	printf("\n");
+	
+}

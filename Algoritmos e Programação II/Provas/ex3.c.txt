@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <string.h>
+
+void main(){
+	char arquivo[30];
+	char linha[50], aluno[50];
+	FILE *arq;
+	int flag, nota, cont, maior = 0;
+
+	printf("Digite o nome do arquivo: ");
+	gets(arquivo);
+
+	arq = fopen(arquivo, "r");
+	
+	while(fgets(linha, sizeof(linha), arq) != NULL){
+		flag = 0;
+		for(cont = 0; linha[cont] != '\0'; cont++){		
+			if(flag == 2) {
+				nota = linha[cont+1]-'0';
+				if(nota > maior){
+					maior = nota;
+					strcpy(aluno, linha);
+				}
+				break;
+			}
+			if(linha[cont] == ':' && flag < 2) flag++;
+		}
+	}
+	printf("%s", aluno);
+
+}

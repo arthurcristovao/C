@@ -1,0 +1,12 @@
+void trieq(int tam){ //imprime um triangulo equilatero de tamanho "tam"
+	int esp = tam-1;
+	int i, j, k;
+	for(i=0;i<tam;i++){
+		for(j=0;j<esp;j++)
+			printf(" ");
+		esp--;
+		for(k=0;k<=i;k++)
+			printf("* ");
+		printf("\n");
+	}
+}

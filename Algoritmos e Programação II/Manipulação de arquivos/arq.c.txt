@@ -1,0 +1,63 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define FILENAME "db.txt"
+
+typedef struct{
+	int id;
+	char nome[50];
+	char email[50];
+	char fone[20];
+} Usuario;
+
+void cadastrar(){
+	int i;
+	FILE* arquivo;
+ 	Usuario usr[3] = {
+ 		{1, "Thor", "thor@osorio.ifrs.edu.br", "51987654321"}, 
+ 		{2, "Spider-man", "spider-man@osorio.ifrs.edu.br", "51999999999"},
+ 		{3, "Miranha", "miranha@osorio.ifrs.edu.br", "51988888888"}
+ 	};
+ 	
+ 	if (!(arquivo = fopen(FILENAME,"w"))) {
+ 		printf("Erro! Impossivel abrir o arquivo!\n");
+ 		exit(1);
+ 	}
+ 	
+ 	for(i = 0; i < 3; i++){
+ 		fprintf(arquivo, "%d\n%s\n%s\n%s\n", usr[i].id, usr[i].nome, usr[i].email, usr[i].fone);
+ 	}
+ 	
+ 	fclose(arquivo);
+}
+
+void listar(){
+	FILE* arquivo;
+	char linha[50];
+	int cont = 1;
+	if (!(arquivo = fopen(FILENAME,"r"))) {
+ 		printf("Erro! Impossivel abrir o arquivo!\n");
+ 		exit(1);
+ 	}
+ 	while(fgets(linha, sizeof(linha), arquivo) != NULL){
+ 		if(cont == 1)
+			printf("ID: %s", linha);
+		else if(cont == 2)
+			printf("Nome: %s", linha);
+		else if(cont == 3)
+			printf("E-mail: %s", linha);
+		else if(cont == 4){
+			printf("Fone: %s\n", linha);
+			cont = 0;
+		}
+		cont++;
+	}
+	fclose(arquivo);
+}
+
+void main()
+{
+ 	cadastrar();
+ 	listar();
+}

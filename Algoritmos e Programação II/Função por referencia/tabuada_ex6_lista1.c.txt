@@ -1,0 +1,48 @@
+void tabuada(){
+	int valor=0, mult;
+	srand(time(NULL)); //altera a semente de numeros pseudorandomicos
+	int x = rand()%9+1; //gera numero randomico de 1 a 9
+	int y = rand()%9+1; //gera numero randomico de 1 a 9
+	
+	printf("Quanto é %d x %d? ", x, y);
+	mult = x*y; //resultado correto da multiplicacao
+	while(valor != mult){
+		scanf("%d", &valor); //resultado digitado pelo aluno
+		if(mult!=valor){ //se esta incorreto
+			cortexto(VERMELHO); //funcao "cortexto" implementada na primeira aula
+			switch(rand()%4){
+				case 0:
+					printf("Não. Tente novamente, por favor!\n");
+					break;
+				case 1:
+					printf("Errado! Tente mais uma vez!\n");
+					break;
+				case 2:
+					printf("Não desista!\n");
+					break;
+				case 3:
+					printf("Não. Continue tentando!\n");
+					break;
+			}
+			cortexto(PADRAO);
+		}
+		else { //se nao esta incorreto
+			cortexto(AZUL);
+			switch(rand()%4){
+				case 0:
+					printf("Muito bem!\n");
+					break;
+				case 1:
+					printf("Excelente!\n");
+					break;
+				case 2:
+					printf("Bom trabalho!\n");
+					break;
+				case 3:
+					printf("Certo! Continue assim!\n");
+					break;
+			}
+			cortexto(PADRAO);
+		}
+	}
+}

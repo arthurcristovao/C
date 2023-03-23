@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+void main(){
+	char arquivo1[30];
+	char arquivo2[30];
+	char linha[100];
+	FILE* arq1, *arq2, *arq3;
+
+	printf("Digite o nome do arquivo 1: ");
+	gets(arquivo1);
+	printf("Digite o nome do arquivo 2: ");
+	gets(arquivo2);
+
+	arq1 = fopen(arquivo1, "r");
+	arq2 = fopen(arquivo2, "r");
+	arq3 = fopen("uniao.txt", "w");
+	while(fgets(linha, sizeof(linha), arq1) != NULL){
+		fprintf(arq3, "%s", linha);
+	}
+	while(fgets(linha, sizeof(linha), arq2) != NULL){
+		fprintf(arq3, "%s", linha);
+	}
+	fclose(arq1);
+	fclose(arq2);
+	fclose(arq3);
+}

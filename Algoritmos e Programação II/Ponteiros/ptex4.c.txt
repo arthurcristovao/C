@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+void maiuscula(char *frase){
+	while(*frase != '\0'){
+		if(*frase > 95 && *frase < 123)
+			(*frase) -= 32;
+		frase++;
+	}
+}
+
+void main(){
+	char letra[10] = "Bruno";
+	printf("%s\n", letra);
+	maiuscula(letra);
+	printf("%s\n", letra);
+	
+}

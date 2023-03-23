@@ -1,0 +1,33 @@
+void encontraID(int ID){
+	int linhaAtual = 1, linhaID = 1, IDlido;
+	char linha[50];
+	FILE* arq;
+	if (!(arq = fopen(FILENAME,"r"))) {
+ 		printf("Erro! Impossivel abrir o arquivo!\n");
+ 		exit(1);
+ 	}
+	while(1){
+		if(linhaAtual == linhaID){
+			fscanf(arq, "%d\n", &IDlido);
+			linhaAtual++;
+			if(IDlido == ID){
+				printf("ID: %d\n", ID);
+				printf("Nome: ");
+				getlinhas(arq);
+				printf("E-mail: ");
+				getlinhas(arq);
+				printf("Telefone: ");
+				getlinhas(arq);
+				fclose(arq);
+				return;
+			}
+		} else if(linhaAtual > linhaID){
+			linhaID +=4;
+		}
+		if(fgets(linha, sizeof(linha), arq) == NULL)
+			break;
+		linhaAtual++;
+	}
+	printf("ID não encontrado!\n");
+	fclose(arq);
+}

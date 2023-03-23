@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#define TAM 7
+void quadrado(int);
+
+void main(int argc, char *argv[]){
+	int tamanho = atoi(argv[1]);
+	quadrado(tamanho);
+}
+
+void quadrado(int tam){
+	int l,c;
+	for(l=0;l<tam;l++){
+		for(c=0;c<tam;c++)
+			printf("* ");
+		printf("\n");
+	}
+}

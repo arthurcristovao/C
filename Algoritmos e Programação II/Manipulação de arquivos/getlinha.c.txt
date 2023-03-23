@@ -1,0 +1,42 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void getlinha(int num, FILE *fp){
+	int conta = 1, imprimiu = 0;
+	char c;
+	while (!feof(fp)) /* Enquanto n„o se chegar no final do arquivo */
+	{
+		c = getc(fp); /* Le um novo caracter no arquivo */
+		
+		if(num == conta) {
+			printf("%c",c); /* Imprime o caracter na tela */
+			imprimiu = 1;
+		}
+
+		if(c == '\n'){
+			conta++;
+		}
+	}
+	if(!imprimiu) printf("Esta linha não existe no arquivo!\n");
+}
+
+void getlinhas(FILE *fp){
+	char c;
+	do{
+		c = getc(fp);
+		if(!feof(fp)) printf("%c", c);
+	}while (!feof(fp) && c != '\n');
+}
+
+void main()
+{
+ FILE *arquivo;
+ if (!(arquivo = fopen("poema.txt","r"))) {
+ 	printf("Erro! Impossivel abrir o arquivo!\n");
+ 	exit(1);
+ }
+ while(!feof(arquivo))
+ 	getlinhas(arquivo);
+ 	
+ fclose(arquivo); /* Fecha o arquivo */
+}

@@ -1,0 +1,51 @@
+//Exercício 5
+int strcmp(char *X, char *Y)
+{
+	while(*X != '\0')
+	{
+		if (*X != *Y)
+			break;
+		X++;
+		Y++;
+	}
+	return *X - *Y;
+}
+
+//Exercício 6
+void strcpy(char* destino, char* origem)
+{
+	while (*origem != '\0')
+	{
+		*destino = *origem;
+		destino++;
+		origem++;
+	}
+
+	*destino = '\0';
+}
+
+//Exercício 7
+void mudaVogais(char* frase)
+{
+
+	while (*frase != '\0')
+	{
+		switch(*frase){
+			case 'a': case 'A':
+				*frase = 'u';
+				break;
+			case 'e': case 'E':
+				*frase = 'o';
+				break;
+			case 'i': case 'I':
+				*frase = 'u';
+				break;
+			case 'o': case 'O':
+				*frase = 'a';
+				break;
+			case 'u': case 'U':
+				*frase = 'e';
+		}
+		frase++;
+	}
+}

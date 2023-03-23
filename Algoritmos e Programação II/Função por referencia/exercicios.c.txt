@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include <time.h>
+
+void circulo(float raio, float *area, float *per){
+	*area = M_PI*raio*raio;
+	*per = M_PI*raio*2;
+}
+
+void quadrado(float lado, float *area, float *per){
+	*area = lado*lado;
+	*per = lado*4;
+}
+
+void bhaskara(float a, float b, float c, float *x1, float *x2){
+	float delta = b*b-4*a*c;
+	if(delta>=0){
+		*x1 = (-b+sqrt(delta))/(2*a);
+		*x2 = (-b-sqrt(delta))/(2*a);
+	} else {
+		printf("Existem raízes complexas!\n");
+	}
+}
+
+void minMax(int *vetor, int tam, int *menor, int *maior){
+	int i;
+	*menor=*maior=vetor[0];
+	for(i=1;i<tam;i++){
+		if(vetor[i] > *maior)
+			*maior = vetor[i];
+		if(vetor[i] < *menor)
+			*menor = vetor[i];
+	}
+}
+
+void geraVetor(int tam, int min, int max){
+	int vetor[tam], i, menor, maior;
+	srand(time(NULL));
+	for(i=0;i<tam;i++){
+		vetor[i] = rand()%(max-min+1)+min;
+		printf("%d - %d\n", i, vetor[i]); 
+	}
+	minMax(vetor, tam, &menor, &maior);
+	printf("Maior: %d Menor: %d\n", maior, menor);
+}
+
+void main(){
+	geraVetor(10, 10, 100);
+}

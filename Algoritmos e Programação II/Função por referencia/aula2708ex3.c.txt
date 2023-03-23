@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+void inverteVetor(int *vetor, int tam){
+	int i, aux;
+	for(i=0;i<tam/2;i++){
+		aux = vetor[i];
+		vetor[i] = vetor[tam-i-1];
+		vetor[tam-i-1] = aux;
+	}	
+}
+
+void geraValores(int *vetor, int tam, int min, int max){
+	int i;
+	srand(time(NULL));
+	for(i=0;i<tam;i++){
+		vetor[i] = rand()%(max-min)+min;
+		//printf("%d - %d\n", i, vetor[i]); 
+	}
+}
+
+void main(){
+	int tam = 10;
+	int vetor[tam], i;
+	
+	geraValores(vetor, tam, 50, 100);
+	
+	printf("\nVetor gerado:    ");
+	for(i=0;i<tam;i++){
+		printf("%d ", vetor[i]); 
+	}
+	
+	inverteVetor(vetor, tam);
+	
+	printf("\nVetor invertido: ");
+	for(i=0;i<tam;i++){
+		printf("%d ", vetor[i]); 
+	}
+	printf("\n");
+}

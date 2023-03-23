@@ -1,0 +1,41 @@
+void removeID(int ID){
+	int linhaAtual = 1, linhaID = 1, IDlido;
+	char linha[50];
+	FILE *temp;
+	FILE* arq;
+	if (!(arq = fopen(FILENAME,"r"))) {
+ 		printf("Erro! Impossivel abrir o arquivo!\n");
+ 		exit(1);
+ 	}
+	while(!feof(arq)){
+		if(linhaAtual == linhaID){
+			fscanf(arq, "%d\n", &IDlido);
+			linhaAtual++;
+			if(IDlido == ID){
+				rewind(arq);
+				if (!(temp = fopen(TEMP_ARQUIVO,"w"))) {
+ 					printf("Erro! Impossivel abrir o arquivo!\n");
+ 					exit(1);
+ 				}
+ 				linhaAtual = 1;
+ 				while(fgets(linha, sizeof(linha), arq) != NULL){
+ 					if(linhaAtual < linhaID || linhaAtual > (linhaID+3))
+ 						fputs(linha, temp);
+ 					linhaAtual++;
+ 				}
+ 				fclose(arq);
+  				fclose(temp);
+ 				remove(FILENAME);
+ 				rename(TEMP_ARQUIVO, FILENAME);
+ 				printf("ID removido com sucesso!\n");
+				return;
+			}
+		} else if(linhaAtual > linhaID){
+			linhaID +=4;
+		}
+		if(fgets(linha, sizeof(linha), arq) == NULL)
+			break;
+		linhaAtual++;
+	}
+	printf("ID não encontrado!\n");
+}

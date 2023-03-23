@@ -1,0 +1,115 @@
+//Arthur Cristovão
+//Alg e Prog 2
+
+
+//Exercício 1
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void){
+	FILE *file1 = fopen("arq1.txt", "r");
+	FILE *file2 = fopen("arq2.txt", "r");
+	FILE *uniao = fopen("uniao.txt", "w");
+	char leitor1[1000];
+	char leitor2[1000];
+
+	if(file1 == NULL){
+		printf("Erro de leitura no ARQ1! Verifique o nome do arquivo!");
+		exit(1);
+	}
+	
+	if(file2 == NULL){
+		printf("Erro de leitura no ARQ2! Verifique o nome do arquivo!");
+		exit(1);
+	}
+	
+	if(uniao == NULL){
+		printf("Erro de leitura na UNIAO! Verifique o nome do arquivo!");
+		exit(1);
+	}
+	
+	
+	while(!feof(file1)){
+		fgets(leitor1, 1000, file1);
+		fputs(leitor1, uniao);
+	}
+	
+	fprintf(uniao, "\n");
+	
+	while(!feof(file2)){
+		fgets(leitor2, 1000, file2);
+		fputs(leitor2, uniao);
+	}
+	
+	printf("Olhe o arquivo uniao.txt!");
+	
+	fclose(file1);
+	fclose(file2);
+	fclose(uniao);
+	
+	return 0;
+	
+}
+
+//Exercício 2
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void){
+	
+	FILE *file = fopen("compras.txt", "r");
+	if(file == NULL){
+		printf("Erro de leitura do arquivo! Verifique!");
+		exit(1);
+	}
+	
+	
+	char item[50];
+	int valor = 0, resultado, linha = 1;
+	
+	while(!feof(file)){
+		fscanf(file, "%s %i", item, &valor);
+		resultado = resultado + valor;
+	}
+	
+	printf("O total de dinheiro gasto foi %d reais", resultado);
+	
+	fclose(file);
+	
+	return 1;
+}
+
+//Exercício 3
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void){
+	
+	FILE *file = fopen("notas.txt", "r");
+	if(file == NULL){
+		printf("Erro de leitura de arquivo! Verifique!");
+		return 1;
+	}
+	
+	char nome[50], nomeMaiorNota[50];
+	int nota = 0, maior = 0;
+	
+	while(!feof(file)){
+		fscanf(file, "Nome: %s Nota: %d\n", nome, &nota);
+		//printf("%s", nome);
+		//printf("%d", nota);
+		
+		if(nota>maior){
+			maior = nota;
+		}
+	
+	}
+		printf("A maior nota eh: %d", maior);
+	
+	fclose(file);
+	
+	return 1;
+}

@@ -1,0 +1,63 @@
+#include <stdio.h>
+
+typedef struct {
+	char nome[30];
+	char CPF[12];
+} cliente;
+
+typedef struct {
+	int numero;
+	cliente cli;
+	float saldo;
+} conta;
+
+void main(){
+	conta cliente[3];
+	int i, num, op = -1;
+	float valor;
+	
+	for(i=0; i<3; i++){
+		printf("Digite o nome do cliente %d: ", i+1);
+		gets(cliente[i].cli.nome);
+		printf("Digite o CPF do cliente %d: ", i+1);
+		gets(cliente[i].cli.CPF);
+		printf("Digite o saldo inicial do cliente %d: ", i+1);
+		scanf("%f", &cliente[i].saldo);
+		cliente[i].numero = i+1000;
+		getchar();
+		printf("Cliente: %s\nCPF: %s\nConta: %d\nSaldo: R$ %.2f\n", cliente[i].cli.nome, cliente[i].cli.CPF, cliente[i].numero, cliente[i].saldo);
+	}
+	
+	while(op!=0){
+		printf("Digite 1 para depositar, 2 para sacar ou 0 para sair: ");
+		scanf("%d", &op);
+		switch(op){
+			case 1:
+				printf("Digite a conta: ");
+				scanf("%d", &num);
+				printf("Digite o valor para depositar: ");
+				scanf("%f", &valor);
+				for(i=0; i<3; i++){
+					if(cliente[i].numero == num){
+						cliente[i].saldo += valor;
+						printf("Cliente: %s\nSaldo: R$ %.2f\n", cliente[i].cli.nome, cliente[i].saldo);
+					}
+				}
+				break;
+			case 2:
+				printf("Digite a conta: ");
+				scanf("%d", &num);
+				printf("Digite o valor para sacar: ");
+				scanf("%f", &valor);
+				for(i=0; i<3; i++){
+					if(cliente[i].numero == num){
+						if(cliente[i].saldo >= valor){
+							cliente[i].saldo -= valor;
+							printf("Cliente: %s\nSaldo: R$ %.2f\n", cliente[i].cli.nome, cliente[i].saldo);
+						} else
+							printf("Saldo insuficiente para sacar.\n");
+					}
+				}
+		}
+	}
+}
