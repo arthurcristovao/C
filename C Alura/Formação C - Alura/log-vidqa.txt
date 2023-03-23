@@ -1,0 +1,350 @@
+ 2023-02-28 00:36:20,367-INFO-Star folder analysis: C:\Formação C - Alura
+ 2023-02-28 00:36:20,650-INFO-Star folder analysis: C:\Formação C - Alura\1. Introdução
+ 2023-02-28 00:36:20,661-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-02-28 00:36:20,666-INFO-Selected file: 1. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 1 Introdução - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:20,668-INFO-Selected file: 2. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 2 Começando a programar - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:20,669-INFO-___Unselected: 3. Instalando GCC.png
+ 2023-02-28 00:36:20,671-INFO-Selected file: 4. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 6 Lidando com erros - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:20,672-INFO-Selected file: 5. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 7 Guardando o número secreto - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:20,675-INFO-___Unselected: 6. Variável com nome repetido.png
+ 2023-02-28 00:36:20,675-INFO-Selected file: 7. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 9 Chutando números - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:20,678-INFO-Selected file: 8. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 10 Compilador - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:20,679-INFO-Selected file: 9. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 12 Resumo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:20,681-INFO-___Unselected: 10. Link do projeto.txt
+ 2023-02-28 00:36:20,682-INFO-run ffprobe: C:\Formação C - Alura\1. Introdução\1. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 1 Introdução - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:21,264-INFO-run ffprobe: C:\Formação C - Alura\1. Introdução\2. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 2 Começando a programar - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:21,614-INFO-run ffprobe: C:\Formação C - Alura\1. Introdução\4. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 6 Lidando com erros - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:22,270-INFO-run ffprobe: C:\Formação C - Alura\1. Introdução\5. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 7 Guardando o número secreto - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:22,590-INFO-run ffprobe: C:\Formação C - Alura\1. Introdução\7. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 9 Chutando números - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:22,843-INFO-run ffprobe: C:\Formação C - Alura\1. Introdução\8. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 10 Compilador - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:23,099-INFO-run ffprobe: C:\Formação C - Alura\1. Introdução\9. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 12 Resumo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:23,644-INFO-parsing: C:\Formação C - Alura\1. Introdução\1. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 1 Introdução - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:23,650-INFO-parsing: C:\Formação C - Alura\1. Introdução\2. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 2 Começando a programar - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:23,651-INFO-parsing: C:\Formação C - Alura\1. Introdução\4. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 6 Lidando com erros - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:23,654-INFO-parsing: C:\Formação C - Alura\1. Introdução\5. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 7 Guardando o número secreto - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:23,657-INFO-parsing: C:\Formação C - Alura\1. Introdução\7. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 9 Chutando números - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:23,671-INFO-parsing: C:\Formação C - Alura\1. Introdução\8. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 10 Compilador - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:23,680-INFO-parsing: C:\Formação C - Alura\1. Introdução\9. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 12 Resumo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:23,924-INFO-There are 7 videos to convert.
+ 2023-02-28 00:36:23,938-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\1. Introdução\1. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 1 Introdução - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:23,942-INFO-Convert video extension without reencode: C:\Formação C - Alura\1. Introdução\1. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 1 Introdução - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:26,156-INFO-Done
+ 2023-02-28 00:36:26,214-INFO-There are 6 videos to convert.
+ 2023-02-28 00:36:26,217-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\1. Introdução\2. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 2 Começando a programar - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:26,217-INFO-Convert video extension without reencode: C:\Formação C - Alura\1. Introdução\2. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 2 Começando a programar - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:27,074-INFO-Done
+ 2023-02-28 00:36:27,143-INFO-There are 5 videos to convert.
+ 2023-02-28 00:36:27,150-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\1. Introdução\4. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 6 Lidando com erros - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:27,150-INFO-Convert video extension without reencode: C:\Formação C - Alura\1. Introdução\4. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 6 Lidando com erros - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:28,815-INFO-Done
+ 2023-02-28 00:36:28,864-INFO-There are 4 videos to convert.
+ 2023-02-28 00:36:28,867-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\1. Introdução\5. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 7 Guardando o número secreto - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:28,867-INFO-Convert video extension without reencode: C:\Formação C - Alura\1. Introdução\5. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 7 Guardando o número secreto - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:30,796-INFO-Done
+ 2023-02-28 00:36:31,210-INFO-There are 3 videos to convert.
+ 2023-02-28 00:36:31,210-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\1. Introdução\7. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 9 Chutando números - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:31,213-INFO-Convert video extension without reencode: C:\Formação C - Alura\1. Introdução\7. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 9 Chutando números - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:33,018-INFO-Done
+ 2023-02-28 00:36:33,191-INFO-There are 2 videos to convert.
+ 2023-02-28 00:36:33,193-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\1. Introdução\8. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 10 Compilador - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:33,194-INFO-Convert video extension without reencode: C:\Formação C - Alura\1. Introdução\8. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 10 Compilador - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:36,726-INFO-Done
+ 2023-02-28 00:36:36,758-INFO-There are 1 videos to convert.
+ 2023-02-28 00:36:36,760-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\1. Introdução\9. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 12 Resumo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:36,761-INFO-Convert video extension without reencode: C:\Formação C - Alura\1. Introdução\9. C- conhecendo a Linguagem das Linguagens- Aula 1 - Atividade 12 Resumo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:39,300-INFO-Done
+ 2023-02-28 00:36:39,332-INFO-There are no videos to convert
+ 2023-02-28 00:36:39,400-INFO-Star folder analysis: C:\Formação C - Alura\10. Entrada e Saída (IO)
+ 2023-02-28 00:36:39,407-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-02-28 00:36:39,410-INFO-Selected file: 1. C- avançando na linguagem- Aula 6 - Atividade 1 Finalizando o jogo após erros seguidos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:39,411-INFO-Selected file: 2. C- avançando na linguagem- Aula 6 - Atividade 2 Refatorando o código - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:39,411-INFO-Selected file: 3. C- avançando na linguagem- Aula 6 - Atividade 3 Verificando se o usuário ganhou o jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:39,412-INFO-Selected file: 4. C- avançando na linguagem- Aula 6 - Atividade 4 Header files - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:39,413-INFO-Selected file: 5. C- avançando na linguagem- Aula 6 - Atividade 5 Lendo arquivos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:39,414-INFO-Selected file: 6. C- avançando na linguagem- Aula 6 - Atividade 8 Escrevendo em um arquivo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:39,417-INFO-Selected file: 7. C- avançando na linguagem- Aula 6 - Atividade 12 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:39,419-INFO-run ffprobe: C:\Formação C - Alura\10. Entrada e Saída (IO)\1. C- avançando na linguagem- Aula 6 - Atividade 1 Finalizando o jogo após erros seguidos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:39,733-INFO-run ffprobe: C:\Formação C - Alura\10. Entrada e Saída (IO)\2. C- avançando na linguagem- Aula 6 - Atividade 2 Refatorando o código - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:39,949-INFO-run ffprobe: C:\Formação C - Alura\10. Entrada e Saída (IO)\3. C- avançando na linguagem- Aula 6 - Atividade 3 Verificando se o usuário ganhou o jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:40,434-INFO-run ffprobe: C:\Formação C - Alura\10. Entrada e Saída (IO)\4. C- avançando na linguagem- Aula 6 - Atividade 4 Header files - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:40,648-INFO-run ffprobe: C:\Formação C - Alura\10. Entrada e Saída (IO)\5. C- avançando na linguagem- Aula 6 - Atividade 5 Lendo arquivos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:40,900-INFO-run ffprobe: C:\Formação C - Alura\10. Entrada e Saída (IO)\6. C- avançando na linguagem- Aula 6 - Atividade 8 Escrevendo em um arquivo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:41,222-INFO-run ffprobe: C:\Formação C - Alura\10. Entrada e Saída (IO)\7. C- avançando na linguagem- Aula 6 - Atividade 12 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:41,435-INFO-parsing: C:\Formação C - Alura\10. Entrada e Saída (IO)\1. C- avançando na linguagem- Aula 6 - Atividade 1 Finalizando o jogo após erros seguidos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:41,436-INFO-parsing: C:\Formação C - Alura\10. Entrada e Saída (IO)\2. C- avançando na linguagem- Aula 6 - Atividade 2 Refatorando o código - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:41,437-INFO-parsing: C:\Formação C - Alura\10. Entrada e Saída (IO)\3. C- avançando na linguagem- Aula 6 - Atividade 3 Verificando se o usuário ganhou o jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:41,439-INFO-parsing: C:\Formação C - Alura\10. Entrada e Saída (IO)\4. C- avançando na linguagem- Aula 6 - Atividade 4 Header files - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:41,442-INFO-parsing: C:\Formação C - Alura\10. Entrada e Saída (IO)\5. C- avançando na linguagem- Aula 6 - Atividade 5 Lendo arquivos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:41,443-INFO-parsing: C:\Formação C - Alura\10. Entrada e Saída (IO)\6. C- avançando na linguagem- Aula 6 - Atividade 8 Escrevendo em um arquivo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:41,444-INFO-parsing: C:\Formação C - Alura\10. Entrada e Saída (IO)\7. C- avançando na linguagem- Aula 6 - Atividade 12 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:41,501-INFO-There are 7 videos to convert.
+ 2023-02-28 00:36:41,502-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\10. Entrada e Saída (IO)\1. C- avançando na linguagem- Aula 6 - Atividade 1 Finalizando o jogo após erros seguidos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:41,503-INFO-Convert video extension without reencode: C:\Formação C - Alura\10. Entrada e Saída (IO)\1. C- avançando na linguagem- Aula 6 - Atividade 1 Finalizando o jogo após erros seguidos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:42,447-INFO-Done
+ 2023-02-28 00:36:42,481-INFO-There are 6 videos to convert.
+ 2023-02-28 00:36:42,483-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\10. Entrada e Saída (IO)\2. C- avançando na linguagem- Aula 6 - Atividade 2 Refatorando o código - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:42,488-INFO-Convert video extension without reencode: C:\Formação C - Alura\10. Entrada e Saída (IO)\2. C- avançando na linguagem- Aula 6 - Atividade 2 Refatorando o código - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:43,588-INFO-Done
+ 2023-02-28 00:36:43,619-INFO-There are 5 videos to convert.
+ 2023-02-28 00:36:43,621-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\10. Entrada e Saída (IO)\3. C- avançando na linguagem- Aula 6 - Atividade 3 Verificando se o usuário ganhou o jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:43,623-INFO-Convert video extension without reencode: C:\Formação C - Alura\10. Entrada e Saída (IO)\3. C- avançando na linguagem- Aula 6 - Atividade 3 Verificando se o usuário ganhou o jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:44,138-INFO-Done
+ 2023-02-28 00:36:44,170-INFO-There are 4 videos to convert.
+ 2023-02-28 00:36:44,174-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\10. Entrada e Saída (IO)\4. C- avançando na linguagem- Aula 6 - Atividade 4 Header files - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:44,176-INFO-Convert video extension without reencode: C:\Formação C - Alura\10. Entrada e Saída (IO)\4. C- avançando na linguagem- Aula 6 - Atividade 4 Header files - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:45,058-INFO-Done
+ 2023-02-28 00:36:45,089-INFO-There are 3 videos to convert.
+ 2023-02-28 00:36:45,090-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\10. Entrada e Saída (IO)\5. C- avançando na linguagem- Aula 6 - Atividade 5 Lendo arquivos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:45,096-INFO-Convert video extension without reencode: C:\Formação C - Alura\10. Entrada e Saída (IO)\5. C- avançando na linguagem- Aula 6 - Atividade 5 Lendo arquivos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:47,295-INFO-Done
+ 2023-02-28 00:36:47,524-INFO-There are 2 videos to convert.
+ 2023-02-28 00:36:47,534-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\10. Entrada e Saída (IO)\6. C- avançando na linguagem- Aula 6 - Atividade 8 Escrevendo em um arquivo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:47,544-INFO-Convert video extension without reencode: C:\Formação C - Alura\10. Entrada e Saída (IO)\6. C- avançando na linguagem- Aula 6 - Atividade 8 Escrevendo em um arquivo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:49,306-INFO-Done
+ 2023-02-28 00:36:49,338-INFO-There are 1 videos to convert.
+ 2023-02-28 00:36:49,339-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\10. Entrada e Saída (IO)\7. C- avançando na linguagem- Aula 6 - Atividade 12 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:49,340-INFO-Convert video extension without reencode: C:\Formação C - Alura\10. Entrada e Saída (IO)\7. C- avançando na linguagem- Aula 6 - Atividade 12 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:49,953-INFO-Done
+ 2023-02-28 00:36:49,988-INFO-There are no videos to convert
+ 2023-02-28 00:36:50,043-INFO-Star folder analysis: C:\Formação C - Alura\11. Finalizando o Jogo
+ 2023-02-28 00:36:50,046-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-02-28 00:36:50,048-INFO-Selected file: 1. C- avançando na linguagem- Aula 7 - Atividade 1 Evitando repetição de código - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:50,050-INFO-Selected file: 2. C- avançando na linguagem- Aula 7 - Atividade 3 Extraindo mais funções - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:50,051-INFO-Selected file: 3. C- avançando na linguagem- Aula 7 - Atividade 6 Conclusão - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:50,051-INFO-run ffprobe: C:\Formação C - Alura\11. Finalizando o Jogo\1. C- avançando na linguagem- Aula 7 - Atividade 1 Evitando repetição de código - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:50,352-INFO-run ffprobe: C:\Formação C - Alura\11. Finalizando o Jogo\2. C- avançando na linguagem- Aula 7 - Atividade 3 Extraindo mais funções - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:50,531-INFO-run ffprobe: C:\Formação C - Alura\11. Finalizando o Jogo\3. C- avançando na linguagem- Aula 7 - Atividade 6 Conclusão - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:50,708-INFO-parsing: C:\Formação C - Alura\11. Finalizando o Jogo\1. C- avançando na linguagem- Aula 7 - Atividade 1 Evitando repetição de código - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:50,720-INFO-parsing: C:\Formação C - Alura\11. Finalizando o Jogo\2. C- avançando na linguagem- Aula 7 - Atividade 3 Extraindo mais funções - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:50,726-INFO-parsing: C:\Formação C - Alura\11. Finalizando o Jogo\3. C- avançando na linguagem- Aula 7 - Atividade 6 Conclusão - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:50,880-INFO-There are 3 videos to convert.
+ 2023-02-28 00:36:50,888-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\11. Finalizando o Jogo\1. C- avançando na linguagem- Aula 7 - Atividade 1 Evitando repetição de código - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:50,898-INFO-Convert video extension without reencode: C:\Formação C - Alura\11. Finalizando o Jogo\1. C- avançando na linguagem- Aula 7 - Atividade 1 Evitando repetição de código - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:51,415-INFO-Done
+ 2023-02-28 00:36:51,449-INFO-There are 2 videos to convert.
+ 2023-02-28 00:36:51,452-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\11. Finalizando o Jogo\2. C- avançando na linguagem- Aula 7 - Atividade 3 Extraindo mais funções - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:51,453-INFO-Convert video extension without reencode: C:\Formação C - Alura\11. Finalizando o Jogo\2. C- avançando na linguagem- Aula 7 - Atividade 3 Extraindo mais funções - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:52,638-INFO-Done
+ 2023-02-28 00:36:52,880-INFO-There are 1 videos to convert.
+ 2023-02-28 00:36:52,883-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\11. Finalizando o Jogo\3. C- avançando na linguagem- Aula 7 - Atividade 6 Conclusão - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:52,886-INFO-Convert video extension without reencode: C:\Formação C - Alura\11. Finalizando o Jogo\3. C- avançando na linguagem- Aula 7 - Atividade 6 Conclusão - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:53,199-INFO-Done
+ 2023-02-28 00:36:53,227-INFO-There are no videos to convert
+ 2023-02-28 00:36:53,259-INFO-Star folder analysis: C:\Formação C - Alura\12. Modulo 3 - Matrizes
+ 2023-02-28 00:36:53,263-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-02-28 00:36:53,267-INFO-Selected file: 1. C- recursos avançados da linguagem- Aula 1 - Atividade 1 Introdução - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:53,267-INFO-Selected file: 2. C- recursos avançados da linguagem- Aula 1 - Atividade 2 Entendendo as matrizes - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:53,268-INFO-Selected file: 3. C- recursos avançados da linguagem- Aula 1 - Atividade 4 Salvando e lendo dados de uma matriz - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:53,270-INFO-Selected file: 4. C- recursos avançados da linguagem- Aula 1 - Atividade 4 Salvando e lendo dados de uma matriz - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:53,271-INFO-Selected file: 5. C- recursos avançados da linguagem- Aula 1 - Atividade 9 Separando o código em funções - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:53,272-INFO-Selected file: 6. C- recursos avançados da linguagem- Aula 1 - Atividade 12 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:53,272-INFO-run ffprobe: C:\Formação C - Alura\12. Modulo 3 - Matrizes\1. C- recursos avançados da linguagem- Aula 1 - Atividade 1 Introdução - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:53,447-INFO-run ffprobe: C:\Formação C - Alura\12. Modulo 3 - Matrizes\2. C- recursos avançados da linguagem- Aula 1 - Atividade 2 Entendendo as matrizes - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:53,628-INFO-run ffprobe: C:\Formação C - Alura\12. Modulo 3 - Matrizes\3. C- recursos avançados da linguagem- Aula 1 - Atividade 4 Salvando e lendo dados de uma matriz - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:53,796-INFO-run ffprobe: C:\Formação C - Alura\12. Modulo 3 - Matrizes\4. C- recursos avançados da linguagem- Aula 1 - Atividade 4 Salvando e lendo dados de uma matriz - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,062-INFO-run ffprobe: C:\Formação C - Alura\12. Modulo 3 - Matrizes\5. C- recursos avançados da linguagem- Aula 1 - Atividade 9 Separando o código em funções - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,274-INFO-run ffprobe: C:\Formação C - Alura\12. Modulo 3 - Matrizes\6. C- recursos avançados da linguagem- Aula 1 - Atividade 12 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,444-INFO-parsing: C:\Formação C - Alura\12. Modulo 3 - Matrizes\1. C- recursos avançados da linguagem- Aula 1 - Atividade 1 Introdução - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,446-INFO-parsing: C:\Formação C - Alura\12. Modulo 3 - Matrizes\2. C- recursos avançados da linguagem- Aula 1 - Atividade 2 Entendendo as matrizes - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,447-INFO-parsing: C:\Formação C - Alura\12. Modulo 3 - Matrizes\3. C- recursos avançados da linguagem- Aula 1 - Atividade 4 Salvando e lendo dados de uma matriz - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,448-INFO-parsing: C:\Formação C - Alura\12. Modulo 3 - Matrizes\4. C- recursos avançados da linguagem- Aula 1 - Atividade 4 Salvando e lendo dados de uma matriz - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,450-INFO-parsing: C:\Formação C - Alura\12. Modulo 3 - Matrizes\5. C- recursos avançados da linguagem- Aula 1 - Atividade 9 Separando o código em funções - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,452-INFO-parsing: C:\Formação C - Alura\12. Modulo 3 - Matrizes\6. C- recursos avançados da linguagem- Aula 1 - Atividade 12 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,502-INFO-There are 6 videos to convert.
+ 2023-02-28 00:36:54,507-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\12. Modulo 3 - Matrizes\1. C- recursos avançados da linguagem- Aula 1 - Atividade 1 Introdução - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,508-INFO-Convert video extension without reencode: C:\Formação C - Alura\12. Modulo 3 - Matrizes\1. C- recursos avançados da linguagem- Aula 1 - Atividade 1 Introdução - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,859-INFO-Done
+ 2023-02-28 00:36:54,890-INFO-There are 5 videos to convert.
+ 2023-02-28 00:36:54,892-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\12. Modulo 3 - Matrizes\2. C- recursos avançados da linguagem- Aula 1 - Atividade 2 Entendendo as matrizes - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:54,893-INFO-Convert video extension without reencode: C:\Formação C - Alura\12. Modulo 3 - Matrizes\2. C- recursos avançados da linguagem- Aula 1 - Atividade 2 Entendendo as matrizes - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:55,937-INFO-Done
+ 2023-02-28 00:36:55,969-INFO-There are 4 videos to convert.
+ 2023-02-28 00:36:55,970-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\12. Modulo 3 - Matrizes\3. C- recursos avançados da linguagem- Aula 1 - Atividade 4 Salvando e lendo dados de uma matriz - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:55,972-INFO-Convert video extension without reencode: C:\Formação C - Alura\12. Modulo 3 - Matrizes\3. C- recursos avançados da linguagem- Aula 1 - Atividade 4 Salvando e lendo dados de uma matriz - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:56,360-INFO-Done
+ 2023-02-28 00:36:56,390-INFO-There are 3 videos to convert.
+ 2023-02-28 00:36:56,391-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\12. Modulo 3 - Matrizes\4. C- recursos avançados da linguagem- Aula 1 - Atividade 4 Salvando e lendo dados de uma matriz - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:56,392-INFO-Convert video extension without reencode: C:\Formação C - Alura\12. Modulo 3 - Matrizes\4. C- recursos avançados da linguagem- Aula 1 - Atividade 4 Salvando e lendo dados de uma matriz - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:57,589-INFO-Done
+ 2023-02-28 00:36:57,620-INFO-There are 2 videos to convert.
+ 2023-02-28 00:36:57,623-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\12. Modulo 3 - Matrizes\5. C- recursos avançados da linguagem- Aula 1 - Atividade 9 Separando o código em funções - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:57,625-INFO-Convert video extension without reencode: C:\Formação C - Alura\12. Modulo 3 - Matrizes\5. C- recursos avançados da linguagem- Aula 1 - Atividade 9 Separando o código em funções - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:58,064-INFO-Done
+ 2023-02-28 00:36:58,093-INFO-There are 1 videos to convert.
+ 2023-02-28 00:36:58,096-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\12. Modulo 3 - Matrizes\6. C- recursos avançados da linguagem- Aula 1 - Atividade 12 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:58,097-INFO-Convert video extension without reencode: C:\Formação C - Alura\12. Modulo 3 - Matrizes\6. C- recursos avançados da linguagem- Aula 1 - Atividade 12 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:58,546-INFO-Done
+ 2023-02-28 00:36:58,579-INFO-There are no videos to convert
+ 2023-02-28 00:36:58,630-INFO-Star folder analysis: C:\Formação C - Alura\13. Structs
+ 2023-02-28 00:36:58,640-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-02-28 00:36:58,646-INFO-Selected file: 1. C- recursos avançados da linguagem- Aula 2 - Atividade 1 Fazendo o herói andar - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:58,646-INFO-Selected file: 2. C- recursos avançados da linguagem- Aula 2 - Atividade 2 Definindo uma struct - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:58,647-INFO-Selected file: 3. C- recursos avançados da linguagem- Aula 2 - Atividade 5 A instrução typedef - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:58,648-INFO-Selected file: 4. C- recursos avançados da linguagem- Aula 2 - Atividade 6 Ponteiros para structs - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:58,648-INFO-Selected file: 5. C- recursos avançados da linguagem- Aula 2 - Atividade 8 Introdução à análise de algoritmos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:58,649-INFO-Selected file: 6. C- recursos avançados da linguagem- Aula 2 - Atividade 11 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:58,649-INFO-run ffprobe: C:\Formação C - Alura\13. Structs\1. C- recursos avançados da linguagem- Aula 2 - Atividade 1 Fazendo o herói andar - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:58,857-INFO-run ffprobe: C:\Formação C - Alura\13. Structs\2. C- recursos avançados da linguagem- Aula 2 - Atividade 2 Definindo uma struct - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:59,039-INFO-run ffprobe: C:\Formação C - Alura\13. Structs\3. C- recursos avançados da linguagem- Aula 2 - Atividade 5 A instrução typedef - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:59,308-INFO-run ffprobe: C:\Formação C - Alura\13. Structs\4. C- recursos avançados da linguagem- Aula 2 - Atividade 6 Ponteiros para structs - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:59,497-INFO-run ffprobe: C:\Formação C - Alura\13. Structs\5. C- recursos avançados da linguagem- Aula 2 - Atividade 8 Introdução à análise de algoritmos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:36:59,848-INFO-run ffprobe: C:\Formação C - Alura\13. Structs\6. C- recursos avançados da linguagem- Aula 2 - Atividade 11 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:00,036-INFO-parsing: C:\Formação C - Alura\13. Structs\1. C- recursos avançados da linguagem- Aula 2 - Atividade 1 Fazendo o herói andar - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:00,038-INFO-parsing: C:\Formação C - Alura\13. Structs\2. C- recursos avançados da linguagem- Aula 2 - Atividade 2 Definindo uma struct - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:00,039-INFO-parsing: C:\Formação C - Alura\13. Structs\3. C- recursos avançados da linguagem- Aula 2 - Atividade 5 A instrução typedef - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:00,043-INFO-parsing: C:\Formação C - Alura\13. Structs\4. C- recursos avançados da linguagem- Aula 2 - Atividade 6 Ponteiros para structs - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:00,044-INFO-parsing: C:\Formação C - Alura\13. Structs\5. C- recursos avançados da linguagem- Aula 2 - Atividade 8 Introdução à análise de algoritmos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:00,045-INFO-parsing: C:\Formação C - Alura\13. Structs\6. C- recursos avançados da linguagem- Aula 2 - Atividade 11 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:00,093-INFO-There are 6 videos to convert.
+ 2023-02-28 00:37:00,097-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\13. Structs\1. C- recursos avançados da linguagem- Aula 2 - Atividade 1 Fazendo o herói andar - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:00,098-INFO-Convert video extension without reencode: C:\Formação C - Alura\13. Structs\1. C- recursos avançados da linguagem- Aula 2 - Atividade 1 Fazendo o herói andar - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:01,182-INFO-Done
+ 2023-02-28 00:37:01,304-INFO-There are 5 videos to convert.
+ 2023-02-28 00:37:01,306-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\13. Structs\2. C- recursos avançados da linguagem- Aula 2 - Atividade 2 Definindo uma struct - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:01,307-INFO-Convert video extension without reencode: C:\Formação C - Alura\13. Structs\2. C- recursos avançados da linguagem- Aula 2 - Atividade 2 Definindo uma struct - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:02,131-INFO-Done
+ 2023-02-28 00:37:02,249-INFO-There are 4 videos to convert.
+ 2023-02-28 00:37:02,252-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\13. Structs\3. C- recursos avançados da linguagem- Aula 2 - Atividade 5 A instrução typedef - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:02,254-INFO-Convert video extension without reencode: C:\Formação C - Alura\13. Structs\3. C- recursos avançados da linguagem- Aula 2 - Atividade 5 A instrução typedef - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:02,771-INFO-Done
+ 2023-02-28 00:37:02,818-INFO-There are 3 videos to convert.
+ 2023-02-28 00:37:02,821-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\13. Structs\4. C- recursos avançados da linguagem- Aula 2 - Atividade 6 Ponteiros para structs - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:02,822-INFO-Convert video extension without reencode: C:\Formação C - Alura\13. Structs\4. C- recursos avançados da linguagem- Aula 2 - Atividade 6 Ponteiros para structs - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:04,634-INFO-Done
+ 2023-02-28 00:37:04,662-INFO-There are 2 videos to convert.
+ 2023-02-28 00:37:04,665-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\13. Structs\5. C- recursos avançados da linguagem- Aula 2 - Atividade 8 Introdução à análise de algoritmos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:04,667-INFO-Convert video extension without reencode: C:\Formação C - Alura\13. Structs\5. C- recursos avançados da linguagem- Aula 2 - Atividade 8 Introdução à análise de algoritmos - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:05,863-INFO-Done
+ 2023-02-28 00:37:05,894-INFO-There are 1 videos to convert.
+ 2023-02-28 00:37:05,895-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\13. Structs\6. C- recursos avançados da linguagem- Aula 2 - Atividade 11 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:05,896-INFO-Convert video extension without reencode: C:\Formação C - Alura\13. Structs\6. C- recursos avançados da linguagem- Aula 2 - Atividade 11 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:06,834-INFO-Done
+ 2023-02-28 00:37:06,864-INFO-There are no videos to convert
+ 2023-02-28 00:37:06,924-INFO-Star folder analysis: C:\Formação C - Alura\14. Programando como um profissional
+ 2023-02-28 00:37:06,931-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-02-28 00:37:06,937-INFO-Selected file: 1. C- recursos avançados da linguagem- Aula 3 - Atividade 1 Ignorando comandos que não movam o herói - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:06,938-INFO-Selected file: 2. C- recursos avançados da linguagem- Aula 3 - Atividade 2 Tratando as paredes e os extremos do jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:06,938-INFO-Selected file: 3. C- recursos avançados da linguagem- Aula 3 - Atividade 3 Quebrando o código em funções menores - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:06,939-INFO-Selected file: 4. C- recursos avançados da linguagem- Aula 3 - Atividade 4 Utilizando constantes - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:06,940-INFO-Selected file: 5. C- recursos avançados da linguagem- Aula 3 - Atividade 6 Usando estruturas auxiliares - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:06,940-INFO-Selected file: 6. C- recursos avançados da linguagem- Aula 3 - Atividade 9 Um pouco de inteligência artificial - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:06,941-INFO-Selected file: 7. C- recursos avançados da linguagem- Aula 3 - Atividade 10 Implementando a finalização do jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:06,941-INFO-Selected file: 8. C- recursos avançados da linguagem- Aula 3 - Atividade 11 Assinatura da função - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:06,942-INFO-Selected file: 9. C- recursos avançados da linguagem- Aula 3 - Atividade 14 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:06,942-INFO-run ffprobe: C:\Formação C - Alura\14. Programando como um profissional\1. C- recursos avançados da linguagem- Aula 3 - Atividade 1 Ignorando comandos que não movam o herói - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:07,196-INFO-run ffprobe: C:\Formação C - Alura\14. Programando como um profissional\2. C- recursos avançados da linguagem- Aula 3 - Atividade 2 Tratando as paredes e os extremos do jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:07,361-INFO-run ffprobe: C:\Formação C - Alura\14. Programando como um profissional\3. C- recursos avançados da linguagem- Aula 3 - Atividade 3 Quebrando o código em funções menores - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:07,531-INFO-run ffprobe: C:\Formação C - Alura\14. Programando como um profissional\4. C- recursos avançados da linguagem- Aula 3 - Atividade 4 Utilizando constantes - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:07,909-INFO-run ffprobe: C:\Formação C - Alura\14. Programando como um profissional\5. C- recursos avançados da linguagem- Aula 3 - Atividade 6 Usando estruturas auxiliares - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:08,124-INFO-run ffprobe: C:\Formação C - Alura\14. Programando como um profissional\6. C- recursos avançados da linguagem- Aula 3 - Atividade 9 Um pouco de inteligência artificial - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:08,305-INFO-run ffprobe: C:\Formação C - Alura\14. Programando como um profissional\7. C- recursos avançados da linguagem- Aula 3 - Atividade 10 Implementando a finalização do jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:08,501-INFO-run ffprobe: C:\Formação C - Alura\14. Programando como um profissional\8. C- recursos avançados da linguagem- Aula 3 - Atividade 11 Assinatura da função - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:08,902-INFO-run ffprobe: C:\Formação C - Alura\14. Programando como um profissional\9. C- recursos avançados da linguagem- Aula 3 - Atividade 14 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,124-INFO-parsing: C:\Formação C - Alura\14. Programando como um profissional\1. C- recursos avançados da linguagem- Aula 3 - Atividade 1 Ignorando comandos que não movam o herói - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,127-INFO-parsing: C:\Formação C - Alura\14. Programando como um profissional\2. C- recursos avançados da linguagem- Aula 3 - Atividade 2 Tratando as paredes e os extremos do jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,129-INFO-parsing: C:\Formação C - Alura\14. Programando como um profissional\3. C- recursos avançados da linguagem- Aula 3 - Atividade 3 Quebrando o código em funções menores - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,131-INFO-parsing: C:\Formação C - Alura\14. Programando como um profissional\4. C- recursos avançados da linguagem- Aula 3 - Atividade 4 Utilizando constantes - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,137-INFO-parsing: C:\Formação C - Alura\14. Programando como um profissional\5. C- recursos avançados da linguagem- Aula 3 - Atividade 6 Usando estruturas auxiliares - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,140-INFO-parsing: C:\Formação C - Alura\14. Programando como um profissional\6. C- recursos avançados da linguagem- Aula 3 - Atividade 9 Um pouco de inteligência artificial - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,142-INFO-parsing: C:\Formação C - Alura\14. Programando como um profissional\7. C- recursos avançados da linguagem- Aula 3 - Atividade 10 Implementando a finalização do jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,143-INFO-parsing: C:\Formação C - Alura\14. Programando como um profissional\8. C- recursos avançados da linguagem- Aula 3 - Atividade 11 Assinatura da função - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,145-INFO-parsing: C:\Formação C - Alura\14. Programando como um profissional\9. C- recursos avançados da linguagem- Aula 3 - Atividade 14 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,196-INFO-There are 9 videos to convert.
+ 2023-02-28 00:37:09,197-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\14. Programando como um profissional\1. C- recursos avançados da linguagem- Aula 3 - Atividade 1 Ignorando comandos que não movam o herói - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,198-INFO-Convert video extension without reencode: C:\Formação C - Alura\14. Programando como um profissional\1. C- recursos avançados da linguagem- Aula 3 - Atividade 1 Ignorando comandos que não movam o herói - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,716-INFO-Done
+ 2023-02-28 00:37:09,749-INFO-There are 8 videos to convert.
+ 2023-02-28 00:37:09,752-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\14. Programando como um profissional\2. C- recursos avançados da linguagem- Aula 3 - Atividade 2 Tratando as paredes e os extremos do jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:09,754-INFO-Convert video extension without reencode: C:\Formação C - Alura\14. Programando como um profissional\2. C- recursos avançados da linguagem- Aula 3 - Atividade 2 Tratando as paredes e os extremos do jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:10,856-INFO-Done
+ 2023-02-28 00:37:10,893-INFO-There are 7 videos to convert.
+ 2023-02-28 00:37:10,897-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\14. Programando como um profissional\3. C- recursos avançados da linguagem- Aula 3 - Atividade 3 Quebrando o código em funções menores - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:10,898-INFO-Convert video extension without reencode: C:\Formação C - Alura\14. Programando como um profissional\3. C- recursos avançados da linguagem- Aula 3 - Atividade 3 Quebrando o código em funções menores - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:12,320-INFO-Done
+ 2023-02-28 00:37:12,348-INFO-There are 6 videos to convert.
+ 2023-02-28 00:37:12,350-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\14. Programando como um profissional\4. C- recursos avançados da linguagem- Aula 3 - Atividade 4 Utilizando constantes - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:12,351-INFO-Convert video extension without reencode: C:\Formação C - Alura\14. Programando como um profissional\4. C- recursos avançados da linguagem- Aula 3 - Atividade 4 Utilizando constantes - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:12,749-INFO-Done
+ 2023-02-28 00:37:12,777-INFO-There are 5 videos to convert.
+ 2023-02-28 00:37:12,780-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\14. Programando como um profissional\5. C- recursos avançados da linguagem- Aula 3 - Atividade 6 Usando estruturas auxiliares - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:12,781-INFO-Convert video extension without reencode: C:\Formação C - Alura\14. Programando como um profissional\5. C- recursos avançados da linguagem- Aula 3 - Atividade 6 Usando estruturas auxiliares - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:14,985-INFO-Done
+ 2023-02-28 00:37:15,017-INFO-There are 4 videos to convert.
+ 2023-02-28 00:37:15,019-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\14. Programando como um profissional\6. C- recursos avançados da linguagem- Aula 3 - Atividade 9 Um pouco de inteligência artificial - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:15,019-INFO-Convert video extension without reencode: C:\Formação C - Alura\14. Programando como um profissional\6. C- recursos avançados da linguagem- Aula 3 - Atividade 9 Um pouco de inteligência artificial - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:15,804-INFO-Done
+ 2023-02-28 00:37:15,846-INFO-There are 3 videos to convert.
+ 2023-02-28 00:37:15,848-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\14. Programando como um profissional\7. C- recursos avançados da linguagem- Aula 3 - Atividade 10 Implementando a finalização do jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:15,849-INFO-Convert video extension without reencode: C:\Formação C - Alura\14. Programando como um profissional\7. C- recursos avançados da linguagem- Aula 3 - Atividade 10 Implementando a finalização do jogo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:16,228-INFO-Done
+ 2023-02-28 00:37:16,378-INFO-There are 2 videos to convert.
+ 2023-02-28 00:37:16,381-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\14. Programando como um profissional\8. C- recursos avançados da linguagem- Aula 3 - Atividade 11 Assinatura da função - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:16,381-INFO-Convert video extension without reencode: C:\Formação C - Alura\14. Programando como um profissional\8. C- recursos avançados da linguagem- Aula 3 - Atividade 11 Assinatura da função - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:17,621-INFO-Done
+ 2023-02-28 00:37:17,652-INFO-There are 1 videos to convert.
+ 2023-02-28 00:37:17,655-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\14. Programando como um profissional\9. C- recursos avançados da linguagem- Aula 3 - Atividade 14 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:17,656-INFO-Convert video extension without reencode: C:\Formação C - Alura\14. Programando como um profissional\9. C- recursos avançados da linguagem- Aula 3 - Atividade 14 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:18,086-INFO-Done
+ 2023-02-28 00:37:18,122-INFO-There are no videos to convert
+ 2023-02-28 00:37:18,187-INFO-Star folder analysis: C:\Formação C - Alura\15. Recursividade
+ 2023-02-28 00:37:18,195-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-02-28 00:37:18,199-INFO-Selected file: 1. C- recursos avançados da linguagem- Aula 4 - Atividade 1 Um novo recurso para o herói - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:18,200-INFO-Selected file: 1. C- recursos avançados da linguagem- Aula 5 - Atividade 1 Outras diretivas de compilação - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:18,201-INFO-Selected file: 2. C- recursos avançados da linguagem- Aula 4 - Atividade 2 Começando a destruir os fantasmas - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:18,202-INFO-Selected file: 2. C- recursos avançados da linguagem- Aula 5 - Atividade 5 Conclusão - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:18,203-INFO-Selected file: 3. C- recursos avançados da linguagem- Aula 4 - Atividade 3 Função recursiva - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:18,203-INFO-Selected file: 4. C- recursos avançados da linguagem- Aula 4 - Atividade 5 Melhorando o algoritmo recursivo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:18,205-INFO-Selected file: 5. C- recursos avançados da linguagem- Aula 4 - Atividade 7 Explodindo a bomba nas quatro direções possíveis - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:18,206-INFO-Selected file: 6. C- recursos avançados da linguagem- Aula 4 - Atividade 10 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:18,207-INFO-run ffprobe: C:\Formação C - Alura\15. Recursividade\1. C- recursos avançados da linguagem- Aula 4 - Atividade 1 Um novo recurso para o herói - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:18,619-INFO-run ffprobe: C:\Formação C - Alura\15. Recursividade\1. C- recursos avançados da linguagem- Aula 5 - Atividade 1 Outras diretivas de compilação - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:18,799-INFO-run ffprobe: C:\Formação C - Alura\15. Recursividade\2. C- recursos avançados da linguagem- Aula 4 - Atividade 2 Começando a destruir os fantasmas - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:19,035-INFO-run ffprobe: C:\Formação C - Alura\15. Recursividade\2. C- recursos avançados da linguagem- Aula 5 - Atividade 5 Conclusão - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:19,453-INFO-run ffprobe: C:\Formação C - Alura\15. Recursividade\3. C- recursos avançados da linguagem- Aula 4 - Atividade 3 Função recursiva - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:19,801-INFO-run ffprobe: C:\Formação C - Alura\15. Recursividade\4. C- recursos avançados da linguagem- Aula 4 - Atividade 5 Melhorando o algoritmo recursivo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:19,975-INFO-run ffprobe: C:\Formação C - Alura\15. Recursividade\5. C- recursos avançados da linguagem- Aula 4 - Atividade 7 Explodindo a bomba nas quatro direções possíveis - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:20,211-INFO-run ffprobe: C:\Formação C - Alura\15. Recursividade\6. C- recursos avançados da linguagem- Aula 4 - Atividade 10 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:20,518-INFO-parsing: C:\Formação C - Alura\15. Recursividade\1. C- recursos avançados da linguagem- Aula 4 - Atividade 1 Um novo recurso para o herói - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:20,519-INFO-parsing: C:\Formação C - Alura\15. Recursividade\1. C- recursos avançados da linguagem- Aula 5 - Atividade 1 Outras diretivas de compilação - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:20,522-INFO-parsing: C:\Formação C - Alura\15. Recursividade\2. C- recursos avançados da linguagem- Aula 4 - Atividade 2 Começando a destruir os fantasmas - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:20,523-INFO-parsing: C:\Formação C - Alura\15. Recursividade\2. C- recursos avançados da linguagem- Aula 5 - Atividade 5 Conclusão - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:20,525-INFO-parsing: C:\Formação C - Alura\15. Recursividade\3. C- recursos avançados da linguagem- Aula 4 - Atividade 3 Função recursiva - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:20,527-INFO-parsing: C:\Formação C - Alura\15. Recursividade\4. C- recursos avançados da linguagem- Aula 4 - Atividade 5 Melhorando o algoritmo recursivo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:20,528-INFO-parsing: C:\Formação C - Alura\15. Recursividade\5. C- recursos avançados da linguagem- Aula 4 - Atividade 7 Explodindo a bomba nas quatro direções possíveis - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:20,531-INFO-parsing: C:\Formação C - Alura\15. Recursividade\6. C- recursos avançados da linguagem- Aula 4 - Atividade 10 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:20,592-INFO-There are 8 videos to convert.
+ 2023-02-28 00:37:20,595-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\15. Recursividade\1. C- recursos avançados da linguagem- Aula 4 - Atividade 1 Um novo recurso para o herói - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:20,595-INFO-Convert video extension without reencode: C:\Formação C - Alura\15. Recursividade\1. C- recursos avançados da linguagem- Aula 4 - Atividade 1 Um novo recurso para o herói - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:21,388-INFO-Done
+ 2023-02-28 00:37:21,516-INFO-There are 7 videos to convert.
+ 2023-02-28 00:37:21,518-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\15. Recursividade\1. C- recursos avançados da linguagem- Aula 5 - Atividade 1 Outras diretivas de compilação - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:21,518-INFO-Convert video extension without reencode: C:\Formação C - Alura\15. Recursividade\1. C- recursos avançados da linguagem- Aula 5 - Atividade 1 Outras diretivas de compilação - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:24,215-INFO-Done
+ 2023-02-28 00:37:24,248-INFO-There are 6 videos to convert.
+ 2023-02-28 00:37:24,250-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\15. Recursividade\2. C- recursos avançados da linguagem- Aula 4 - Atividade 2 Começando a destruir os fantasmas - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:24,253-INFO-Convert video extension without reencode: C:\Formação C - Alura\15. Recursividade\2. C- recursos avançados da linguagem- Aula 4 - Atividade 2 Começando a destruir os fantasmas - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:25,276-INFO-Done
+ 2023-02-28 00:37:25,305-INFO-There are 5 videos to convert.
+ 2023-02-28 00:37:25,306-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\15. Recursividade\2. C- recursos avançados da linguagem- Aula 5 - Atividade 5 Conclusão - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:25,308-INFO-Convert video extension without reencode: C:\Formação C - Alura\15. Recursividade\2. C- recursos avançados da linguagem- Aula 5 - Atividade 5 Conclusão - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:27,201-INFO-Done
+ 2023-02-28 00:37:27,230-INFO-There are 4 videos to convert.
+ 2023-02-28 00:37:27,236-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\15. Recursividade\3. C- recursos avançados da linguagem- Aula 4 - Atividade 3 Função recursiva - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:27,238-INFO-Convert video extension without reencode: C:\Formação C - Alura\15. Recursividade\3. C- recursos avançados da linguagem- Aula 4 - Atividade 3 Função recursiva - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:29,785-INFO-Done
+ 2023-02-28 00:37:29,846-INFO-There are 3 videos to convert.
+ 2023-02-28 00:37:29,849-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\15. Recursividade\4. C- recursos avançados da linguagem- Aula 4 - Atividade 5 Melhorando o algoritmo recursivo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:29,851-INFO-Convert video extension without reencode: C:\Formação C - Alura\15. Recursividade\4. C- recursos avançados da linguagem- Aula 4 - Atividade 5 Melhorando o algoritmo recursivo - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:30,314-INFO-Done
+ 2023-02-28 00:37:30,345-INFO-There are 2 videos to convert.
+ 2023-02-28 00:37:30,347-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\15. Recursividade\5. C- recursos avançados da linguagem- Aula 4 - Atividade 7 Explodindo a bomba nas quatro direções possíveis - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:30,347-INFO-Convert video extension without reencode: C:\Formação C - Alura\15. Recursividade\5. C- recursos avançados da linguagem- Aula 4 - Atividade 7 Explodindo a bomba nas quatro direções possíveis - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:32,560-INFO-Done
+ 2023-02-28 00:37:32,593-INFO-There are 1 videos to convert.
+ 2023-02-28 00:37:32,595-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação C - Alura\15. Recursividade\6. C- recursos avançados da linguagem- Aula 4 - Atividade 10 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:32,596-INFO-Convert video extension without reencode: C:\Formação C - Alura\15. Recursividade\6. C- recursos avançados da linguagem- Aula 4 - Atividade 10 O que aprendemos- - Alura - Cursos online de tecnologia.ts
+ 2023-02-28 00:37:32,848-INFO-Done
+ 2023-02-28 00:37:32,880-INFO-There are no videos to convert
+ 2023-02-28 00:37:32,952-INFO-Star folder analysis: C:\Formação C - Alura\16. Diretivas
+ 2023-02-28 00:37:32,956-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-02-28 00:37:32,963-INFO-There are no video files.

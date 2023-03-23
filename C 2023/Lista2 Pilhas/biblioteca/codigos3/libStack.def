@@ -1,0 +1,3 @@
+EXPORTS
+    pop @1
+    push @2
