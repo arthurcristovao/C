@@ -46,7 +46,7 @@ Lista* remove(Lista* l, int valor)
 	Lista* atual = l;
 	Lista* anterior = NULL;
 	
-	if( atual != NULL && atual->valor != valor){
+	while( atual != NULL && atual->valor != valor){
 		anterior = atual;
 		atual = atual->prox;
 	}

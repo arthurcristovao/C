@@ -45,7 +45,7 @@ int remove(Fila* f)
 		v = f->dados[f->ini];
 		f->ini++;
 		
-		printf("Saiu %d\nini: %d\n\n", v, f->ini-1);
+		//printf("Saiu %d\nini: %d\n\n", v, f->ini-1);
 		return v;
 	}
 }
@@ -71,9 +71,16 @@ int main(void){
 
 	insert(f, 10);
 	insert(f, 20);
-
+	v = remove(f);
+	printf("saiu %d\n", v);
+	v = remove(f);
+	printf("saiu %d\n", v);
+	v = remove(f);
+	printf("saiu %d\n", v);
+	v = remove(f);
+	printf("saiu %d\n", v);
 	
-	show(f);
+	//show(f);
 	
 	f_free(f);
 }
